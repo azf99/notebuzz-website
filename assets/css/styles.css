@@ -217,37 +217,12 @@ section img {
 	min-width: 300px;
 }
 
-#menu .img_container {
-	display: grid;
-	grid-template-columns: 1fr 1fr;
-	grid-template-rows: 1fr 1fr;
-	grid-gap: 20px 20px;
-}
-
-#menu img {
-	width: 100%;
-	min-width: 50px;
-}
-
 .align_end {
 	align-self: end;
 }
 
 .align_start {
 	align-self: start;
-}
-
-#reservation .img_container {
-	display: grid;
-	grid-template-columns: 1fr 1fr;
-	grid-template-rows: 1fr;
-	grid-gap: 20px 20px;
-}
-
-#reservation img {
-	width: 100%;
-	min-width: 50px;
-	max-width: 320px;
 }
 
 /* Dividers */
