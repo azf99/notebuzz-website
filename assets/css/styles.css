@@ -516,14 +516,16 @@ p#arrow {
 	}
 }
 
+
+
 .fa {
-	padding: 20px;
-	font-size: 15px;
-	width: 10px;
+	padding: 17px;
+	font-size: 17px;
+	width: 17px;
 	text-align: center;
 	text-decoration: none;
-	margin: 5px 2px;
-	border-radius: 75%;
+	margin: 4px 1px;
+	border-radius: 50%;
 	opacity: 0.7;
   }
   
@@ -549,11 +551,15 @@ p#arrow {
   }
   
   .fa-youtube {
-	background: #bb0000;
+	background: #412828;
 	color: white;
   }
   
   .fa-instagram {
-	background: #125688;
+	background: #3f729b;
+	color: white;
+  }
+  .fa-whatsapp {
+	background: #00ff2ad5;
 	color: white;
   }
