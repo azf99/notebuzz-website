@@ -145,6 +145,6 @@ window.addEventListener("scroll", debounce(fixMenu));
 window.addEventListener("resize", debounce(getBreakPoints, 500));
 // window.addEventListener("scroll", debounce(activateMenuOnScroll));
 
-LINKS.forEach(MenuLink => MenuLink.addEventListener("click", smoothScroll));
+// LINKS.forEach(MenuLink => MenuLink.addEventListener("click", smoothScroll));
 MENU_ICON_OPEN.addEventListener("click", toggleMenuOnClick);
 MENU_ICON_CLOSE.addEventListener("click", toggleMenuOnClick);
